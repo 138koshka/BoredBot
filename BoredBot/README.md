@@ -1,3 +1,7 @@
+
+----* I coded all this myself, however the project was provided by Scrimba: -------
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
@@ -5,7 +9,6 @@ npm install
 npm start
 ```
 
-----* I coded all this myself, however the project was provided by Scrimba: -------
 
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
